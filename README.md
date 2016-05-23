@@ -17,4 +17,6 @@ brew install FORMULA
 
 ## List of formulas:
 
-## [git-secret](https://github.com/sobolevn/git-secret)
+## Moved to [`brew`](https://github.com/Homebrew/homebrew-core):
+
+### [git-secret](https://github.com/sobolevn/git-secret)

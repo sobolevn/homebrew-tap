@@ -17,6 +17,8 @@ class GitSecret < Formula
     <<-EOS.undent
       You now have the `git secret` command! Find out how to use it
       by typing `man git-secret` or visiting 'https://sobolevn.github.io/git-secret/'.
+
+      Warning: No longer maintained, use core formula!
     EOS
   end
 
